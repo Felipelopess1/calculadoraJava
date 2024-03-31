@@ -1,18 +1,14 @@
-## Getting Started
+## Sobre o projeto
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este recurso foi criado para colocar em prática os conhecimentos adquiridos com estudo de Java.
 
-## Folder Structure
+O objetivo foi a criação de uma calculadora aritimetica em java, onde o usuario irá fornecer dois valores e selecionar a opção referente a operação matematica desejada, além de englobar conceitos como uso do Do-While para gerar uma validação e por em prática o conceito de métodos para criar instruções a qual o programa irá seguir
 
-The workspace contains two folders by default, where:
+## Uso da calculadora
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+![image](https://github.com/Felipelopess1/calculadoraJava/assets/112299121/f56da5ec-4977-4623-aa8c-2fe373bec657)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Tecnologias utilizadas
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Java
